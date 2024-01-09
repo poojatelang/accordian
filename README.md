@@ -1,2 +1,2 @@
 # accordian
-Displays anwers when clicked on button
+Displays anwers when clicked on buttons
