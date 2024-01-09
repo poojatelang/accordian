@@ -4,7 +4,7 @@ const Content = ({id,que,ans}) => {
     const [state,setState]=useState(false);
    
     const handleclick=()=>{
-       setState(!state)
+       setState(!state);
     }
     
   return (
